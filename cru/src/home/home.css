@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.m-2{
+    margin: 0 0 20px 0;
+}
+.container{
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+.left-container{
+    
+}
+.login{
+    margin: 15px;
+    padding: 20px;
+    box-shadow: 0 1px 6px rgb(32 33 36 / 28%);
+}
+.head div{
+    display: flex;
+    justify-content: end;
+}
+.head div img{
+    width: 20%;
+    display: inline-block;
+}
+.head h2{
+    font-size: 1.7rem;
+}
+form h4{
+    text-align: end;
+    font-size: 1.4rem;
+    margin-bottom: 15px;
+}
+.name-box,
+.account-box{
+    display: flex;
+    gap: 15px;
+}
+#form-btn{
+    justify-content: center;
+    padding: 20px 0px;
+}
+.name-box .name,
+.branch-box{
+    width: 50%;
+}
+input{
+    border-radius: 2px;
+    width: 100%;
+    padding: 8px;
+}
+.name-box .name input{
+    width: 100%;
+    padding: 8px;
+}
+.mob-box .mob,
+.account-box .mob,
+.date-box{
+    width: 40%;
+}
+.mob-box .email,
+.account-box .email{
+    width: 60%;
+}
+.form-container{
+    margin-bottom: 25px;
+}
+
+
+/* right */
+.right-container{
+    
+
+}
+.box{
+    margin: 10px;
+}
+.wraper{
+    margin: 10px;
+    position: relative;
+    box-shadow: 0 1px 6px rgb(32 33 36 / 28%);
+    padding: 20px;
+    line-height: 35px;
+    border-radius: 10px;
+}
+.img-box{
+    position: absolute;
+    right: 20px;
+    top:20px;
+}
+.img-box img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    overflow: hidden;
+    object-fit: cover;
+}
+.detial{
+    display: flex;
+    width: 50%;
+    justify-content: space-between;
+}
+span{
+    padding-right:20px ;
+}
+.btn-grp{
+    display: flex;
+    justify-content: flex-end;
+}
+.btn-grp button{
+    background-color:#4274BF;
+    border: none;
+    padding: 8px 50px;
+    color: #fff;
+    border-radius: 50px;
+   
+}
+.btn-grp button:last-child{
+    background-color:#D64742;
+    margin-left:15px ;
+}

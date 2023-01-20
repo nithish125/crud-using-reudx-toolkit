@@ -1,0 +1,8 @@
+.row1{
+  display: flex;
+  justify-content: center;
+
+}
+.col-61{
+  width: 45%;
+}
