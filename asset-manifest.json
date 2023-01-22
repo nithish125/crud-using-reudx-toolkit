@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c6c9cd4c.css",
+    "main.js": "/static/js/main.c7e5fa8c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/chefs-3.jpg": "/static/media/chefs-3.8160a024459418d24549.jpg",
+    "index.html": "/index.html",
+    "main.c6c9cd4c.css.map": "/static/css/main.c6c9cd4c.css.map",
+    "main.c7e5fa8c.js.map": "/static/js/main.c7e5fa8c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6c9cd4c.css",
+    "static/js/main.c7e5fa8c.js"
+  ]
+}
